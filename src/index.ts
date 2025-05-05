@@ -10,7 +10,8 @@ export default function yamltovue(options: molPluginOptions = {}): Plugin {
     return {
         name: 'vite-plugin-yamltovue',
         async buildStart() {
-            
+            console.log('vite-plugin-yamltovue: build start');
+
         }
     }
 }
