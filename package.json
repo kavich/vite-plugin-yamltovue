@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-yamltovue",
+  "name": "@kavich/vite-plugin-yamltovue",
   "version": "0.0.1",
   "description": "",
   "main": "src/index.ts",
